@@ -13,3 +13,5 @@ MiniPedia is a lightweight and user-friendly wiki website designed to provide br
 - **Random Page**: Discover new topics by navigating to a random page.
 - **User-Friendly Interface**: Simple and intuitive design for easy navigation and editing.
 
+## Credits
+- Parts of this project, including util.py, styles.css, and /entries/ folder,  are adapted from https://cdn.cs50.net/web/2020/spring/projects/1/wiki.zip by CS50W Course Team, Harvard University
